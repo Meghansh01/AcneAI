@@ -407,7 +407,7 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-Created by: Kartik
+Created by: Kartik (Group Leader) , Meghansh , Kunaal
 
 ---
 
