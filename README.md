@@ -1,6 +1,6 @@
 # 🧴 AcneAI - Acne Type Classification Project
 
-A deep learning-based acne classification system that identifies 5 types of acne lesions from skin images using Transfer Learning with EfficientNetB0.
+A deep learning-based acne classification system that identifies 5 types of acne lesions from skin images using Transfer Learning with EfficientNetB0 .
 
 ---
 
