@@ -3,7 +3,7 @@
 A deep learning-based acne classification system that identifies 5 types of acne lesions from skin images using Transfer Learning with EfficientNetB0 , EfficientNetB2 and ResNet50.
 
 ---
-
+ 
 ## 📋 Table of Contents
 
 1. [Project Overview](#project-overview)
