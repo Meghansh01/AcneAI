@@ -1,0 +1,52 @@
+{
+  "metrics": {
+    "B0": {
+      "accuracy": 0.8115468409586056,
+      "precision_macro": 0.8269598438622637,
+      "recall_macro": 0.8284747812195163,
+      "f1_macro": 0.8247177052375635,
+      "f1_micro": 0.8115468409586056,
+      "specificity_macro": 0.8269598438622637
+    },
+    "B2": {
+      "accuracy": 0.8061002178649237,
+      "precision_macro": 0.7961794104969797,
+      "recall_macro": 0.8216288380623185,
+      "f1_macro": 0.8011038988770723,
+      "f1_micro": 0.8061002178649237,
+      "specificity_macro": 0.7961794104969797
+    },
+    "ResNet": {
+      "accuracy": 0.8714596949891068,
+      "precision_macro": 0.8743203518243796,
+      "recall_macro": 0.8827721329363565,
+      "f1_macro": 0.8766594386455016,
+      "f1_micro": 0.8714596949891068,
+      "specificity_macro": 0.8743203518243796
+    },
+    "Fusion": {
+      "accuracy": 0.900871459694989,
+      "precision_macro": 0.9019122768932851,
+      "recall_macro": 0.909663055894495,
+      "f1_macro": 0.9040272692927008,
+      "f1_micro": 0.900871459694989,
+      "specificity_macro": 0.9019122768932851
+    }
+  },
+  "deltas_6_params": {
+    "accuracy": 0.07116920842411023,
+    "precision_macro": 0.06942574149874403,
+    "recall_macro": 0.06537113848843124,
+    "f1_macro": 0.0698669217059884,
+    "f1_micro": 0.07116920842411023,
+    "specificity_macro": 0.06942574149874403
+  },
+  "six_params": {
+    "accuracy": 0.900871459694989,
+    "precision_macro": 0.9019122768932851,
+    "recall_macro": 0.909663055894495,
+    "f1_macro": 0.9040272692927008,
+    "f1_micro": 0.900871459694989,
+    "specificity_macro": 0.9019122768932851
+  }
+}
