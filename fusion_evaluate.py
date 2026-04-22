@@ -41,7 +41,7 @@ test_260 = tf.keras.utils.image_dataset_from_directory(
     class_names=CLASS_NAMES, image_size=(260,260),
     batch_size=32, shuffle=False
 ).prefetch(AUTOTUNE)
-
+#new comment
 # Collect predictions
 def get_probs(model, ds):
     probs, labels = [], []
